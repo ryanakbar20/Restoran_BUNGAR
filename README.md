@@ -9,6 +9,6 @@ Team 4 Introduction to Programing.
 4. Cinta Permata Hati
 5. Erliana
 
-Language : Java
-Build system : IntelliJ
-JDK : Oracle OpenJDK version 18.0.1
+Language : Java,
+Build system : IntelliJ,
+JDK : Oracle OpenJDK version 18.0.1.
