@@ -57,8 +57,5 @@ public class RestoranBungar {
 
         System.out.println("Terima kasih atas kunjungan anda...");
         System.exit(0);
-
-
-        System.out.println(jumlah_pemesan + nama_pemesan);
     }
 }
